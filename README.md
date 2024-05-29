@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maorber&label=Profile%20views&color=0e75b6&style=flat" alt="maorber" /> </p>
 
-- 🔭 I’m currently working on **Helicopter landing Finder for the IDF**
+- Fibonatix tech support engineer.
 
-- 👯 I’m looking to collaborate on **AI automation projects**
+- 👯 Open for code collaborations.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
